@@ -1,0 +1,67 @@
+{
+  "uid" : "2964938c15ef40ca",
+  "name" : "test02()",
+  "fullName" : "tests.simple.PositiveTests.test02",
+  "historyId" : "34333c078d0850649209825487f8321b",
+  "time" : {
+    "start" : 1645643774864,
+    "stop" : 1645643774864,
+    "duration" : 0
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "simple"
+  }, {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:tests.simple.PositiveTests]/[method:test02()]"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-4AB6G28V"
+  }, {
+    "name" : "thread",
+    "value" : "21024@LAPTOP-4AB6G28V.Test worker(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "tests.simple.PositiveTests"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.simple.PositiveTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "test02"
+  }, {
+    "name" : "suite",
+    "value" : "tests.simple.PositiveTests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "simple" ]
+  },
+  "source" : "2964938c15ef40ca.json",
+  "parameterValues" : [ ]
+}
